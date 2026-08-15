@@ -85,3 +85,9 @@ if user_input:
 
     # Save assistant message to active thread history
     active_chat["messages"].append({"role": "assistant", "content": ai_reply})
+
+
+
+
+
+
