@@ -45,3 +45,4 @@ graph.add_edge(START,"Chat_node")
 graph.add_edge("Chat_node",END)
 
 workflow=graph.compile(checkpointer=check_pointer)
+chatbot = workflow
